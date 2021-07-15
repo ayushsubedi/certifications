@@ -28,3 +28,17 @@
 | Intro to Machine Learning                       | Kaggle               | August 7, 2020    | NA          | [https://www.kaggle.com/learn/certification/ayushsubedi/intro-to-machine-learning](https://www.kaggle.com/learn/certification/ayushsubedi/intro-to-machine-learning)                                                                        |
 | Python                                          | Kaggle               | August 3, 2020    | NA          | [https://www.kaggle.com/learn/certification/ayushsubedi/python](https://www.kaggle.com/learn/certification/ayushsubedi/python)                                                                                                              |
 | AWS Fundamentals in AWS Machine Learning        | Udacity              | July 5, 2020      | NA          | [https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/fadc0711-d160-489c-acdf-20686e562f10.pdf](https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/fadc0711-d160-489c-acdf-20686e562f10.pdf?) |
+
+
+
+
+
+
+## Courses in the pipeline
+- [ ] Intermediate SQL (Datacamp)
+- [ ] PostgreSQL Summary Stats and Window Functions (datacamp)
+- [ ] Functions for Manipulating Data in PostgreSQL (datacamp)
+- [ ] Data-Driven Decision Making for Business
+- [ ] Introduction to PySpark (Datacamp)
+- [ ] Big Data Fundamentals in PySpark (Datacamp)
+- [ ] Cleaning Data with PySpark (Datacamp)
