@@ -35,10 +35,10 @@
 
 
 ## Courses in the pipeline
-- [ ] Intermediate SQL (Datacamp)
-- [ ] PostgreSQL Summary Stats and Window Functions (datacamp)
-- [ ] Functions for Manipulating Data in PostgreSQL (datacamp)
-- [ ] Data-Driven Decision Making for Business
-- [ ] Introduction to PySpark (Datacamp)
-- [ ] Big Data Fundamentals in PySpark (Datacamp)
-- [ ] Cleaning Data with PySpark (Datacamp)
+- Intermediate SQL (Datacamp)
+- PostgreSQL Summary Stats and Window Functions (datacamp)
+- Functions for Manipulating Data in PostgreSQL (datacamp)
+- Data-Driven Decision Making for Business
+- Introduction to PySpark (Datacamp)
+- Big Data Fundamentals in PySpark (Datacamp)
+- Cleaning Data with PySpark (Datacamp)
