@@ -4,6 +4,7 @@
 
 | Name                                            | Issuing Organization | Issue date        | Expiry date | Credential URL                                                                                                                                                                                                                              |
 | ----------------------------------------------- | -------------------- | ----------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Intermediate SQL                                | Datacamp             | July 20, 2021     | NA          | [https://www.datacamp.com/statement-of-accomplishment/course/29746c79a664ffe8ae936069d3cf3406769ac7e5](https://www.datacamp.com/statement-of-accomplishment/course/29746c79a664ffe8ae936069d3cf3406769ac7e5)                                |
 | Joining Data in SQL                             | Datacamp             | July 13, 2021     | NA          | [https://www.datacamp.com/statement-of-accomplishment/course/ee6a9e8930ee5bb86b8a7e0eaf6e1cadbfa65d37](https://www.datacamp.com/statement-of-accomplishment/course/ee6a9e8930ee5bb86b8a7e0eaf6e1cadbfa65d37)                                |
 | Introduction to SQL                             | Datacamp             | July 08, 2021     | NA          | [https://www.datacamp.com/statement-of-accomplishment/course/4eabf0bad75d6f24a4058871e351ba6c77c5ed46](https://www.datacamp.com/statement-of-accomplishment/course/4eabf0bad75d6f24a4058871e351ba6c77c5ed46)                                |
 | Reporting with R Markdown                       | Datacamp             | June 15, 2021     | NA          | [https://www.datacamp.com/statement-of-accomplishment/course/3247593ade63fa888c69402340631a67b87f198c](https://www.datacamp.com/statement-of-accomplishment/course/3247593ade63fa888c69402340631a67b87f198c)                                |
@@ -31,13 +32,7 @@
 
 
 
-
-
-
 ## Courses in the pipeline
-- Intermediate SQL (Datacamp)
-- PostgreSQL Summary Stats and Window Functions (datacamp)
-- Functions for Manipulating Data in PostgreSQL (datacamp)
 - Data-Driven Decision Making for Business
 - Introduction to PySpark (Datacamp)
 - Big Data Fundamentals in PySpark (Datacamp)
