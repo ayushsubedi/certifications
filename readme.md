@@ -37,3 +37,4 @@
 - Introduction to PySpark (Datacamp)
 - Big Data Fundamentals in PySpark (Datacamp)
 - Cleaning Data with PySpark (Datacamp)
+- AWS Data Analytics Speciality (https://github.com/ayushsubedi/data_engineering_certification)
