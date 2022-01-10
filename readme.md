@@ -4,7 +4,8 @@
 
 | Name                                            | Issuing Organization | Issue date        | Expiry date | Credential URL                                                                                                                                                                                                                              |
 | ----------------------------------------------- | -------------------- | ----------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
+||||||
+|Big Data Fundamentals with PySpark| Datacamp | Jan 10, 2022|NA| [link](https://www.datacamp.com/statement-of-accomplishment/course/06530532e301ebca7a6b5507637918b1d61592b9) |a|
 |Introduction to PySpark|Datacamp|Jan 05, 2022|NA| [link](https://www.datacamp.com/statement-of-accomplishment/course/4f60910c39332bd0cad02155c50d018b08456f9c) |
 | Intermediate SQL                                | Datacamp             | July 20, 2021     | NA          | [link](https://www.datacamp.com/statement-of-accomplishment/course/29746c79a664ffe8ae936069d3cf3406769ac7e5)                                |
 | Joining Data in SQL                             | Datacamp             | July 13, 2021     | NA          | [link](https://www.datacamp.com/statement-of-accomplishment/course/ee6a9e8930ee5bb86b8a7e0eaf6e1cadbfa65d37)                                |
