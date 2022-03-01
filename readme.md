@@ -5,7 +5,8 @@
 | Name                                            | Issuing Organization | Issue date        | Expiry date | Credential URL                                                                                                                                                                                                                              |
 | ----------------------------------------------- | -------------------- | ----------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 ||||||
-|Cleaning Data with PySpark| Datacamp | Feb 16, 2020| NA | [link](https://www.datacamp.com/statement-of-accomplishment/course/4a9d2b3a3b3481f9736e402d5e945e3c9c00ebaf)|
+|Feature Engineering with PySpark| Datacamp | March 1, 2022| NA | [link](https://www.datacamp.com/statement-of-accomplishment/course/ec2af65411af66f083df97dc0f983ccff0080734)|
+|Cleaning Data with PySpark| Datacamp | Feb 16, 2022| NA | [link](https://www.datacamp.com/statement-of-accomplishment/course/4a9d2b3a3b3481f9736e402d5e945e3c9c00ebaf)|
 |Big Data Fundamentals with PySpark| Datacamp | Jan 10, 2022|NA| [link](https://www.datacamp.com/statement-of-accomplishment/course/06530532e301ebca7a6b5507637918b1d61592b9) |a|
 |Introduction to PySpark|Datacamp|Jan 05, 2022|NA| [link](https://www.datacamp.com/statement-of-accomplishment/course/4f60910c39332bd0cad02155c50d018b08456f9c) |
 | Intermediate SQL                                | Datacamp             | July 20, 2021     | NA          | [link](https://www.datacamp.com/statement-of-accomplishment/course/29746c79a664ffe8ae936069d3cf3406769ac7e5)                                |
