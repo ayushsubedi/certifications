@@ -4,7 +4,7 @@
 
 | Name                                            | Issuing Organization | Issue date        | Expiry date | Credential URL                                                                                                                                                                                                                              |
 | ----------------------------------------------- | -------------------- | ----------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-||||||
+|Academy Accreditation - Databricks Lakehouse Fundamentals| Databricks | August 24, 2022 | NA | [link](https://credentials.databricks.com/4bcb8e19-e5a6-4255-8662-5d30cabc6326) |
 |Mathematical Thinking with Terence Tao| July, 2022 | Masterclass |||
 |Predictive Analytics Essential Training: Estimating and Ensuring ROI| Linkedin Learning | June, 2022 | NA | [link](https://www.linkedin.com/learning/certificates/0586dabd727044ee031341f79af644a1fba9de2316d655b03a7a0a2dcb1dc614?u=2163426)|
 |Big Data with PySpark Track | Datacamp | March 4, 2022 | NA | [link](https://www.datacamp.com/statement-of-accomplishment/track/d76d04ed3b3b2f60d4f7bc819f315b50abc0639c) |
