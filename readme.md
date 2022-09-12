@@ -4,6 +4,7 @@
 
 | Name                                            | Issuing Organization | Issue date        | Expiry date | Credential URL                                                                                                                                                                                                                              |
 | ----------------------------------------------- | -------------------- | ----------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|D3.js Essential Training for Data Scientists| Linkedin Learning | September 12, 2022 | NA | [link](https://www.linkedin.com/learning/certificates/4b6e1c72ea029732ffe3a68995de5afb046f8c4ed85365ce07c83153671382ed?u=2163426) |
 |Academy Accreditation - Databricks Lakehouse Fundamentals| Databricks | August 24, 2022 | NA | [link](https://credentials.databricks.com/4bcb8e19-e5a6-4255-8662-5d30cabc6326) |
 |Mathematical Thinking with Terence Tao| Masterclass | July, 2022 | NA ||
 |Predictive Analytics Essential Training: Estimating and Ensuring ROI| Linkedin Learning | June, 2022 | NA | [link](https://www.linkedin.com/learning/certificates/0586dabd727044ee031341f79af644a1fba9de2316d655b03a7a0a2dcb1dc614?u=2163426)|
