@@ -4,6 +4,7 @@
 
 | Name                                            | Issuing Organization | Issue date        | Expiry date | Credential URL                                                                                                                                                                                                                              |
 | ----------------------------------------------- | -------------------- | ----------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|AWS Certified Machine Learning Specialty 2023-Hands On!|Udemy|January 4, 2023| NA | [link](https://www.udemy.com/certificate/UC-7e4f3f13-e160-46d1-8e32-4711cf540a6c/)
 |D3.js Essential Training for Data Scientists| Linkedin Learning | September 12, 2022 | NA | [link](https://www.linkedin.com/learning/certificates/4b6e1c72ea029732ffe3a68995de5afb046f8c4ed85365ce07c83153671382ed?u=2163426) |
 |Academy Accreditation - Databricks Lakehouse Fundamentals| Databricks | August 24, 2022 | NA | [link](https://credentials.databricks.com/4bcb8e19-e5a6-4255-8662-5d30cabc6326) |
 |Mathematical Thinking with Terence Tao| Masterclass | July, 2022 | NA ||
